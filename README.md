@@ -17,3 +17,6 @@ Bidding bot is a program designed to automate the bidding process for NFTs on th
 6. Once you have added your NFT collections and set up your bidding price, the bot will automatically place bids on your behalf
 
 ![alt text](https://github.com/JamieNoonan/blur-nft-bot/blob/main/screen.png?raw=true)
+
+### License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
